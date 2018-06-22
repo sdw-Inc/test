@@ -37,7 +37,7 @@
     <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
     <meta name="msapplication-TileColor" content="#3372DF">
 
-    <link rel="shortcut icon" href="{{ '../assets/images/favicon.png' | relative_url }}">
+    <link rel="shortcut icon" href="{{ './assets/images/favicon.png' | relative_url }}">
 
     <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
     <!--
@@ -68,7 +68,7 @@
         <div class="mdl-layout--large-screen-only mdl-layout__header-row">
         </div>
         <div class="mdl-layout--large-screen-only mdl-layout__header-row">
-          <h1><img src="{{ '../assets/images/logo.png' | relative_url }}" alt="MODULE Project" /></h1>
+          <h1><img src="{{ './assets/images/logo.png' | relative_url }}" alt="MODULE Project" /></h1>
         </div>
         <div class="mdl-layout--large-screen-only mdl-layout__header-row">
         </div>
@@ -84,7 +84,11 @@
       <main class="mdl-layout__content">
 		<!-- md files -->
 				<section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp">
-					{{ content }}
+					<div class="mdl-card mdl-cell mdl-cell--12-col">
+						<div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
+							{{ content }}
+            </div>
+					</div>
 				</section>
 				
 		<!-- footer -->
