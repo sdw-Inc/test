@@ -1,18 +1,46 @@
-# マークダウンで書いたページ
+* ネットワーク設定情報
+** インターリンク01（YAMAHA RTX1210）
+*** YAMAHA RTX1210設定情報
+| ユーザー名 | aaaaaaaa |
+| パスワード | aaaaaa |
+| グローバルIP | aaaaaa |
+| ルータIP | aaaaaa |
+| 本体user | aaaaaaa |
+| 本体pass | aaaaaaaaaaaa |
+- [[インターリンク01_契約情報.pdf:https://mj-pj.backlog.jp/alias/file/433]]
+*** VPN設定情報
+| 秘密鍵 | aaaaaaaaaa |
+| user | aaaa |
+| pass | aaaaaaaaa |
 
-人生は、生きてるだけで丸儲け、争わない、楽しみ、チャレンジするそれで、人の役に立てれば最高!
+** インターリンク02（YAMAHA RTX1210）
+*** YAMAHA RTX1210設定情報
+| ユーザー名 | aaaaaaaa |
+| パスワード | aaaaaa |
+| グローバルIP | aaaaaa |
+| ルータIP | aaaaaa |
+| 本体user | aaaaaaa |
+| 本体pass | aaaaaaaaaaaa |
+- [[インターリンク01_契約情報.pdf:https://mj-pj.backlog.jp/alias/file/432]]
+*** VPN設定情報
+| 秘密鍵 | aaaaaaaaaa |
+| user | aaaa |
+| pass | aaaaaaaaa |
 
+** インターリンク03（YAMAHA NVR500）
+*** YAMAHA NVR500設定情報
+| ユーザー名 | aaaaaaaa |
+| パスワード | aaaaaa |
+| グローバルIP | aaaaaa |
+| ルータIP | aaaaaa |
+| 本体user | aaaaaaa |
+| 本体pass | aaaaaaaaaaaa |
+- [[インターリンク01_契約情報.pdf:https://mj-pj.backlog.jp/alias/file/433]]
+*** VPN設定情報
+| 秘密鍵 | aaaaaaaaaa |
+| user | aaaa |
+| pass | aaaaaaaaa |
 
-## 中野信子氏「生きてるだけで丸儲け」は生物学的にも正しい
+** ネットワークカメラ設定情報
+| IP | sssssssssss |
 
-脳科学を通して伝えたいことはシンプルで「生きている者が勝ち！」ということです。
-
-ほとんどの生物の目的というのは「生き延びること」と「子孫を残すこと」なんですね。
-
-ですが人間だけはそうではない。「ひと花咲かせよう！」みたいなのがあって、これがすごい特異的なんですよ。本当は生き延びて生殖するために脳ができたんですけど、でもその脳が発達しすぎてしまったがために「ひと花咲かせよう！」ができちゃうわけです。
-
-私たちが生きているのは、それだけで実績なわけですよ。「生き延びるため」と「生殖するため」ということを考えると、自分がここにいるということは結果なので、ここから先のことは「おまけ」です。
-
-おまけの人生ですから、楽しんでいただきたい。
-
-抜粋 引用元: http://enrique5581.net/nakano-nobuko-life-brain/
